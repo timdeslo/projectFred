@@ -23,7 +23,7 @@ const Home = () => {
           <HeaderDiv>
             <Link>
               <H1 onClick={() => window.scrollTo(0, 0)}>
-                <img src="/pictures/logo.png" alt="logo" />
+                <img src="/projectFred/pictures/logo.png" alt="logo" />
               </H1>
             </Link>
             <HeaderRight>
@@ -50,7 +50,7 @@ const Home = () => {
               clients pour comprendre leurs besoins et nous assurer que chaque
               étape du projet est menée à bien.
             </PsectionA>
-            <ImgSectionA src="/pictures/proud.jpg" alt="deal" />
+            <ImgSectionA src="/projectFred/pictures/proud.jpg" alt="deal" />
           </SectionA>
           <SectionQ>
             <H3>DÉDIÉS À L'EXCELLENCE ET LA QUALITÉ DANS TOUS NOS PROJETS</H3>

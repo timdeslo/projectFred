@@ -7,7 +7,7 @@ function App() {
     <BrowserRouter>
       <GlobalStyles />
       <Routes>
-        <Route path="/projectFred/" element={<Home />} />
+        <Route path="/projectFred" element={<Home />} />
       </Routes>
     </BrowserRouter>
   );

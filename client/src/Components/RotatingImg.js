@@ -3,10 +3,10 @@ import { useState, useEffect } from "react";
 import styled from "styled-components";
 
 const images = [
-  "/projectfred/pictures/maison.png",
-  "/projectfred/pictures/minutieux.png",
-  "/projectfred/pictures/innovation.png",
-  "/projectfred/pictures/tranquilité.png",
+  "/projectFred/pictures/maison.png",
+  "/projectFred/pictures/minutieux.png",
+  "/projectFred/pictures/innovation.png",
+  "/projectFred/pictures/tranquilité.png",
 ];
 
 const RotatingImg = () => {
