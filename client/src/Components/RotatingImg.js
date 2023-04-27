@@ -3,10 +3,10 @@ import { useState, useEffect } from "react";
 import styled from "styled-components";
 
 const images = [
-  "/pictures/maison.png",
-  "/pictures/minutieux.png",
-  "/pictures/innovation.png",
-  "/pictures/tranquilité.png",
+  "/projectfred/pictures/maison.png",
+  "/projectfred/pictures/minutieux.png",
+  "/projectfred/pictures/innovation.png",
+  "/projectfred/pictures/tranquilité.png",
 ];
 
 const RotatingImg = () => {
@@ -42,7 +42,7 @@ const RotatingImg = () => {
 
 const Img = styled.img`
   width: 100vw;
-  height: 600px;
+  height: 700px;
   object-fit: cover;
   margin: 0;
   transition: opacity 1s ease-in-out;

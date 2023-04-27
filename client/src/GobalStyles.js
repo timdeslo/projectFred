@@ -18,6 +18,10 @@ const GlobalStyles = createGlobalStyle`
       font-size: 2rem;
       font-family: 'Open Sans', sans-serif;
     }
+    h3 {
+      font-size: 1.5rem;
+      font-family: 'Open Sans', sans-serif;
+    }
     p {
       font-size: 1.2rem;
       font-family: 'Open Sans', sans-serif;
